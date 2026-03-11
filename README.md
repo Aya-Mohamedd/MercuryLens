@@ -69,7 +69,7 @@ After extensive iteration, the **Stacking Ensemble** was selected as the final m
 ## 👥 Team (Group 36)
 * **Aya Mohamed Mahmoud**
 * **Fatma Ahmed Mansour**
-* *Supervised by: Dr. Rahatara Ferdousi & Dr. Marwa ElSayed*
+* *Supervised by: Dr. Marwa ElSayed*
 
 ---
 **Queen's University - CSAI 801: AI & Machine Learning**
